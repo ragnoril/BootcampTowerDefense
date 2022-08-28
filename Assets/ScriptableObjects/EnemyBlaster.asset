@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76b5275655fb4d54bab478e36dc8bfdc, type: 3}
+  m_Name: EnemyBlaster
+  m_EditorClassIdentifier: 
+  EnemyName: Ufo Blaster
+  Health: 15
+  Damage: 20
+  Speed: 3
+  Prefab: {fileID: 8326849542106312342, guid: 20d32625226307a4982bed8191640fe4, type: 3}
